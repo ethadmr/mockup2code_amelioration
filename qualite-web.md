@@ -28,10 +28,6 @@ J'ai ajouté des Alt afin que les personnes ne pouvant pas voir puisse avoir un 
 ### A11Y - Amélioration 2
 
 
-
-
-
-
 j'ai rajouté un darkmode en fonction de la préférence de l'OS de l'utilisateur cela simplie mon site ( pas besoin de rajouter un bouton pour ça ) et cela aide l'utilisateur a directement le mettre dans de bonne condition 
 
 ### A11Y - Amélioration 3
